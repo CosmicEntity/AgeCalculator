@@ -94,8 +94,8 @@ function App() {
               required
               className={
                 !error
-                  ? "border outline-none border-[hsl(0,0%,86%)] p-2 rounded-lg w-[80%] font-bold text-xl sm:text-3xl text-[hsl(0,0%,8%)]"
-                  : "border outline-none border-[hsl(0,100%,67%)] p-2 rounded-lg w-[80%] font-bold text-xl sm:text-3xl text-[hsl(0,0%,8%)]"
+                  ? "border outline-none border-[hsl(0,0%,86%)] p-2 rounded-lg w-[90%] font-bold text-xl sm:text-3xl text-[hsl(0,0%,8%)]"
+                  : "border outline-none border-[hsl(0,100%,67%)] p-2 rounded-lg w-[90%] font-bold text-xl sm:text-3xl text-[hsl(0,0%,8%)]"
               }
             />
             {error ? (
@@ -122,8 +122,8 @@ function App() {
               required
               className={
                 !error
-                  ? "border outline-none border-[hsl(0,0%,86%)] p-2 rounded-lg w-[80%] font-bold text-xl sm:text-3xl text-[hsl(0,0%,8%)]"
-                  : "border outline-none border-[hsl(0,100%,67%)] p-2 rounded-lg w-[80%] font-bold text-xl sm:text-3xl text-[hsl(0,0%,8%)]"
+                  ? "border outline-none border-[hsl(0,0%,86%)] p-2 rounded-lg w-[90%] font-bold text-xl sm:text-3xl text-[hsl(0,0%,8%)]"
+                  : "border outline-none border-[hsl(0,100%,67%)] p-2 rounded-lg w-[90%] font-bold text-xl sm:text-3xl text-[hsl(0,0%,8%)]"
               }
             />
             {error ? (
@@ -150,8 +150,8 @@ function App() {
               required
               className={
                 !error
-                  ? "border outline-none border-[hsl(0,0%,86%)] p-2 rounded-lg w-[80%] font-bold text-xl sm:text-3xl text-[hsl(0,0%,8%)]"
-                  : "border outline-none border-[hsl(0,100%,67%)] p-2 rounded-lg w-[80%] font-bold text-xl sm:text-3xl text-[hsl(0,0%,8%)]"
+                  ? "border outline-none border-[hsl(0,0%,86%)] p-2 rounded-lg w-[90%] font-bold text-xl sm:text-3xl text-[hsl(0,0%,8%)]"
+                  : "border outline-none border-[hsl(0,100%,67%)] p-2 rounded-lg w-[90%] font-bold text-xl sm:text-3xl text-[hsl(0,0%,8%)]"
               }
             />
             {error ? (
